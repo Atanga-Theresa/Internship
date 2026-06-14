@@ -1,2 +1,2 @@
 # Internship
-This repository contains projects I have worked on during my internship with Analystlab Africa.
+This repository contains projects I have worked on during my Data Science internship with Analystlab Africa.
